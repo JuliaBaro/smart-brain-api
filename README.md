@@ -1,4 +1,4 @@
 # SmartBrain-api
 
-Final project backend.
+React app backend.
 
